@@ -1,5 +1,4 @@
-﻿#if UNITY_EDITOR
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -15,4 +14,3 @@ namespace Lessons
         public Vector3 JumpForce { get { return _jumpForce; } }
     }
 }
-#endif
