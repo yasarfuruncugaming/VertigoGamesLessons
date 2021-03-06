@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Characters
+namespace Characters.Camera
 {
     [CreateAssetMenu(menuName = "Characters/Camera/Camera Settings")] 
 
